@@ -6,4 +6,4 @@ tenho 16y
 -estou estudando no alura;
 -estudo na escola idalina Amaral em SP, ubatuba;
 
-![](https://tenor.com/bWoYD.gif)
+![](https://media1.tenor.com/m/0YwbxuODRR4AAAAC/harley-quinn.gif)
